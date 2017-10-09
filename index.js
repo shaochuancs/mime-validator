@@ -37,8 +37,4 @@ function validateMIME(mime, content) {
   }
 }
 
-function validatorMiddleware(req, res, next) {
-
-}
-
 exports.validate = validateMIME;
