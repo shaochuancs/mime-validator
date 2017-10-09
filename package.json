@@ -1,0 +1,24 @@
+{
+  "name": "mime-validator",
+  "version": "1.0.0",
+  "description": "Validate whether content follow specific MIME type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaochuancs/mime-validator.git"
+  },
+  "keywords": [
+    "MIME",
+    "validate",
+    "middleware"
+  ],
+  "author": "Chuan Shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaochuancs/mime-validator/issues"
+  },
+  "homepage": "https://github.com/shaochuancs/mime-validator#readme"
+}
